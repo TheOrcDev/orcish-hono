@@ -1,5 +1,7 @@
 # Orcish Hono
 
+![Untitled design (2)](https://github.com/user-attachments/assets/2bcdefb7-21af-4396-b809-85ba9535a9c4)
+
 ## Overview
 
 The Orcish Hono is a simple starter pack with Hono as a backend, and Next.js as a frontend
